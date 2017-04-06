@@ -13,3 +13,8 @@ better to look at.
 
 The classes all have comments explaining what some of the lines do and what they're for. 
 
+#Things to be added in the future 
+
+* Chat history so you can see the messages you've sent
+* Message refresh to empty
+* Usernames
